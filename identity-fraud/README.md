@@ -1,1 +1,3 @@
+https://www.forbes.com/sites/thomasbrewster/2021/10/14/huge-bank-fraud-uses-deep-fake-voice-tech-to-steal-millions/?sh=35009db87559
+
 A bank in Hong Kong transferred millions of dollars to fraudsters in 2021, after one of their clients was impersonated by a deepfake. Sounding identical to the real client, the fraudsters phoned the bank manager and explained how the company needed to move money for an acquisition. All the documents seemed to check out, the voice and character were flawlessly familiar, so the manager initiated the transfer.
