@@ -1,5 +1,8 @@
 # THE MISINFORMATION MACHINE
 
+*excerpt from the book: "The Coming Wave" - Mustafa Suleyman*
+
+
 In the 2020 local elections in India, the Bharatiya Janata Party Delhi president, Manoj Tiwari, was filmed making a campaign speech—in both English and a local Hindi dialect. Both looked and sounded convincingly real. In the video he goes on the attack, accusing the head of a rival party of having “cheated us.” But the version in the local dialect was a deepfake, a new kind of AI-enabled synthetic media. Produced by a political communications firm, it exposed the candidate to new, hard-to-reach constituencies. Lacking awareness of the discourse around fake media, many assumed it was real. The company behind the deepfake argued it was a “positive” use of the technology, but to any sober observer this incident heralded a perilous new age in political communication. In another widely publicized incident, a clip of Nancy Pelosi was reedited to make her look ill and impaired and then proceeded to circulate widely on social media.
 
 Ask yourself, what happens when anyone has the power to create and broadcast material with incredible levels of realism? These examples occurred before the means to generate near-perfect deepfakes—whether text, images, video, or audio—became as easy as writing a query into Google. As we saw in chapter 4, large language models now show astounding results at generating synthetic media. A world of deepfakes indistinguishable from conventional media is here. These fakes will be so good our rational minds will find it hard to accept they aren’t real.
